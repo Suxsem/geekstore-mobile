@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geekstore</string>
+    <string name="title_section1">Punti vendita</string>
+    <string name="title_section2">Ordini</string>
+    <string name="username">Nome utente</string>
+    <string name="password">Ordini</string>
+    <string name="login">ACCEDI</string>
+    <string name="image">icon</string>
+</resources>

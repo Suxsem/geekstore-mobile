@@ -1,0 +1,24 @@
+[EMMA v2.0.5312 report, generated Sat Sep 12 13:26:49 CEST 2015]
+-------------------------------------------------------------------------------
+OVERALL COVERAGE SUMMARY:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+71%  (10/14)!	95%  (36/38)	89%  (904/1014)	84%  (184,1/219)	all classes
+
+OVERALL STATS SUMMARY:
+
+total packages:	5
+total classes:	14
+total methods:	38
+total executable files:	10
+total executable lines:	219
+
+COVERAGE BREAKDOWN BY PACKAGE:
+
+[class, %]	[method, %]	[block, %]	[line, %]	[name]
+0%   (0/1)!	0%   (0/1)!	0%   (0/3)!	0%   (0/1)!	android
+0%   (0/1)!	0%   (0/1)!	0%   (0/3)!	0%   (0/1)!	com.suxsem.geekstore
+100% (1/1)	100% (2/2)	87%  (54/62)	83%  (15/18)	com.suxsem.geekstore.activities
+86%  (6/7)!	100% (21/21)	88%  (646/735)	83%  (120,9/146)	com.suxsem.geekstore.business
+75%  (3/4)!	100% (13/13)	97%  (204/211)	91%  (48,2/53)	com.suxsem.geekstore.fragments
+-------------------------------------------------------------------------------
